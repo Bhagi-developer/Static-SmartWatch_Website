@@ -119,7 +119,7 @@ header #menu{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    background:url(/images/my/Home_bg.jpg) no-repeat;
+    background:url('Home_bg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
